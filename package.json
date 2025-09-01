@@ -16,6 +16,9 @@
   "publishConfig": {
     "access": "public"
   },
+  "files": [
+    "src"
+  ],
   "exports": {
     ".": {
       "import": "./src/index.ts"
